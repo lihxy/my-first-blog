@@ -26,9 +26,6 @@ SECRET_KEY = '1x$ia*7fm!oo@14kvm_+=fv1(8_ib(yh$37=#0%wajxxduv5!_'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'lihxy.pythonanywhere.com']
-# ALLOWED_HOSTS = ['198.211.99.20', 'localhost', '127.0.0.1']
-
-
 # Application definition
 
 INSTALLED_APPS = [
